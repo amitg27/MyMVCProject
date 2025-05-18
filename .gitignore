@@ -1,0 +1,30 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio related
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Others
+*.log
+*.tlog
+*.cache
+*.pdb
+*.dbmdl
+*.DS_Store
+
+# Optional: NuGet packages
+*.nupkg
+packages/
+
+# Optional: Rider or JetBrains IDEs
+.idea/
